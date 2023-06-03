@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task_Fiverr</string>
+    <string name="dashes">- - - - - -</string>
+    <string name="say_hello">Say Hello</string>
+    <string name="send_notification">Send Notification</string>
+    <string name="hello_world">Hello, World!</string>
+</resources>
